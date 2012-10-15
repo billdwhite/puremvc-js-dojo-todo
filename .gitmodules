@@ -1,0 +1,6 @@
+[submodule "dojo"]
+	path = dojo
+	url = https://github.com/dojo/dojo.git
+[submodule "puremvc"]
+	path = puremvc
+	url = https://github.com/PureMVC/puremvc-js-multicore-framework.git
